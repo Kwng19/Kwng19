@@ -2,7 +2,7 @@
 - 👀 I’m interested in open-source apps and its development.   
 - 🌱 I’m currently learning Python and information system.  
 - 💞️ I’m looking to collaborate on software development and website development 
-- 📫 How to reach me ...(I will create the link on how to reach me) Thank you! 
+- 📫 How to reach me ...(I will share the link on how to reach me) Thank you! 
 
 <!---
 Kwng19/Kwng19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
